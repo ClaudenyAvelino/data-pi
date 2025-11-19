@@ -4,7 +4,7 @@ Este projeto explora a aplicação de técnicas de regressão polinomial para mo
 
 Este trabalho foi desenvolvido para a disciplina de **Computação Inteligente** por **Claudeny Nivaldo Avelino**, sob orientação do **Prof. Juno Vitorino Saraiva**.
 
-![Gráfico de R² Ajustado](https://i.imgur.com/uQd4uYF.png )
+![Gráfico de R² Ajustado](./grafico_r2_ajustado.png)
 *Gráfico principal do projeto, mostrando o ponto de equilíbrio entre ajuste e complexidade do modelo.*
 
 ---
